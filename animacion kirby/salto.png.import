@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://buf5c244p5klj"
-path="res://.godot/imported/Old Man-death.png-702039f93030db07f59d99381421da2a.ctex"
+uid="uid://cqkx1l7ysntpq"
+path="res://.godot/imported/salto.png-e6ff2436bc33562dc17254dfd30d71e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://animacionesOldMan/Old Man-death.png"
-dest_files=["res://.godot/imported/Old Man-death.png-702039f93030db07f59d99381421da2a.ctex"]
+source_file="res://animacion kirby/salto.png"
+dest_files=["res://.godot/imported/salto.png-e6ff2436bc33562dc17254dfd30d71e0.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://4gu8djstwdul"
-path="res://.godot/imported/Old Man-punch.png-164eaaa03ac0a8558d412e45ecf3ec11.ctex"
+uid="uid://dfu7vt28jn0gk"
+path="res://.godot/imported/puño.png-4d5b7cffc676a150da1d99d7969f817b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://animacionesOldMan/Old Man-punch.png"
-dest_files=["res://.godot/imported/Old Man-punch.png-164eaaa03ac0a8558d412e45ecf3ec11.ctex"]
+source_file="res://animacion kirby/puño.png"
+dest_files=["res://.godot/imported/puño.png-4d5b7cffc676a150da1d99d7969f817b.ctex"]
 
 [params]
 

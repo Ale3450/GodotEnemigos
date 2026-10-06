@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kidgh00q0c4h"
-path="res://.godot/imported/PapyrusMoviendo.png-1221b6e26688b8afb91e073ab155fdbd.ctex"
+uid="uid://cyggom72ib5um"
+path="res://.godot/imported/idle3.png-d9f9b14795d99f2eaddc1b61a1e3bb63.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PapyrusMoviendo.png"
-dest_files=["res://.godot/imported/PapyrusMoviendo.png-1221b6e26688b8afb91e073ab155fdbd.ctex"]
+source_file="res://animacion kirby/idle3.png"
+dest_files=["res://.godot/imported/idle3.png-d9f9b14795d99f2eaddc1b61a1e3bb63.ctex"]
 
 [params]
 

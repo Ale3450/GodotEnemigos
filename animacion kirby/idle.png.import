@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mhce8iko4q16"
-path="res://.godot/imported/Old Man-walk-trimmed.png-1e9136772346fee9bc5c6652da04e39e.ctex"
+uid="uid://0314dimku4vm"
+path="res://.godot/imported/idle.png-6fdc437f06fb25f2b39548a1ce44a3e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://animacionesOldMan/Old Man-walk-trimmed.png"
-dest_files=["res://.godot/imported/Old Man-walk-trimmed.png-1e9136772346fee9bc5c6652da04e39e.ctex"]
+source_file="res://animacion kirby/idle.png"
+dest_files=["res://.godot/imported/idle.png-6fdc437f06fb25f2b39548a1ce44a3e4.ctex"]
 
 [params]
 

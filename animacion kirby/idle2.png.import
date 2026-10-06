@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cupwj6idyeqq8"
-path="res://.godot/imported/Old Man-hurt.png-b0d3c00969e828a3d397c3ebd97ec4eb.ctex"
+uid="uid://blqp3recxo00v"
+path="res://.godot/imported/idle2.png-edea4ba4140f900d9d067e0ae734a5fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://animacionesOldMan/Old Man-hurt.png"
-dest_files=["res://.godot/imported/Old Man-hurt.png-b0d3c00969e828a3d397c3ebd97ec4eb.ctex"]
+source_file="res://animacion kirby/idle2.png"
+dest_files=["res://.godot/imported/idle2.png-edea4ba4140f900d9d067e0ae734a5fe.ctex"]
 
 [params]
 
