@@ -49,7 +49,6 @@ func paraTerminarElPuño() -> void:
 	if $AnimatedSprite2D.frame ==  5:
 		atacando = false
 
-
 func _on_area_muerte_body_entered(body: Node2D) -> void:
 	if body.name == "Protagonista":
 		muerte = true
@@ -57,4 +56,12 @@ func _on_area_muerte_body_entered(body: Node2D) -> void:
 		velocity.y = YSPEED
 		await get_tree().create_timer(2).timeout
 		get_tree().quit()
-	
+
+
+func muerte2(body: Node2D) -> void:
+	if body.name == "Protagonista":
+		muerte = true
+		$AnimatedSprite2D.play("muerte")
+		velocity.y = YSPEED
+		await get_tree().create_timer(2).timeout
+		get_tree().quit()

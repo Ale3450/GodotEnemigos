@@ -9,7 +9,7 @@ func _physics_process(delta: float) -> void:
 	
 	if (not $detectorSueloD.is_colliding() || $paredDerecha.is_colliding())   :
 		voy_a_izq = true
-	if (not $detectorSueloI.is_colliding() || $paredIzquierda.is_colliding():
+	if (not $detectorSueloI.is_colliding() || $paredIzquierda.is_colliding()):
 		voy_a_izq = false
 		
 	position.y = -194

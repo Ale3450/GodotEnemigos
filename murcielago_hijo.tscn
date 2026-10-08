@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://554kcc7tpvpo"]
+
+[ext_resource type="PackedScene" uid="uid://dowa1mt7r6n3q" path="res://murcielago.tscn" id="1_cwf07"]
+
+[node name="MurcielagoHijo" unique_id=1046852611 instance=ExtResource("1_cwf07")]
+metadata/_edit_group_ = true
